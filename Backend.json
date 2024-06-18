@@ -2,33 +2,33 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_216_Athena_Commando_F_Medic"
+            "CID_028_Athena_Commando_F"
         ],
-        "price": 1500
+        "price": 5000
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_074_SharpDresser"
+            "Pickaxe_ID_376_FNCS"
         ],
-        "price": 800
+        "price": 10000
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_TPose"
+            "EID_KPopDance03"
         ],
-        "price": 200
+        "price": 2000
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_Twist"
+            "EID_GoodVibes"
         ],
-        "price": 500
+        "price": 1000
     },
     "daily5": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_045_Angel"
+            "CID_694_Athena_Commando_M_CatBurglar"
         ],
-        "price": 300
+        "price": 1200
     },
     "daily6": {
         "itemGrants": [
